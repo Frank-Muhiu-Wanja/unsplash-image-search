@@ -1,6 +1,6 @@
 * {
   margin: 0;
-  border: solid 1px black;
+  
   padding: 0;
   font-family: "Poppins", sans-serif;
   box-sizing: border-box;
@@ -79,3 +79,4 @@ form button {
   object-fit: cover;
   border-radius: 5px;
 }
+
